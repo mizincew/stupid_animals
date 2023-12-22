@@ -1,2 +1,2 @@
 # stupid_animals
-Test repo
+This is test repo for my test projects
